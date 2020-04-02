@@ -1,2 +1,0 @@
-# ReactCourseSandbox
-Created with CodeSandbox
